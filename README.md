@@ -8,7 +8,8 @@
 - 🎓 &nbsp; B.Sc. in Production Engineering at Ouro Preto Federal University.
 - 🎓 ⏳ &nbsp; B.Sc. in Information Systems at FUMEC University.
 - 🎓 ⏳ &nbsp; M.Sc. in Computer Science at Ouro Preto Federal University.
-- 👨‍🏫 &nbsp; Pursuing knowledge to make incredible dynamic apps, and an Open Source enthusiast.
+- 👨‍&nbsp; Open Source enthusiast.
+- 🏫 &nbsp; Pursuing knowledge to make incredible dynamic apps.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
