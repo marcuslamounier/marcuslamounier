@@ -36,20 +36,20 @@ Tools, languages, and other things that I like to work with.
 
 ### Languages
 
-<code>![C++](https://img.shields.io/badge/C++-blue.svg?style=flat&logo=c%2B%2B)</code> &nbsp;&nbsp;
+<code>![C++](https://img.shields.io/badge/C++-white.svg?style=flat&logo=c%2B%2B&logoColor=blue)</code> &nbsp;&nbsp;
 <code>![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=yellow)</code> &nbsp;&nbsp;
-<code>![TypeSript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript&logoColor=blue)</code> &nbsp;&nbsp;
+<code>![TypeSript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript&logoColor=white)</code> &nbsp;&nbsp;
 <code>![Python](https://img.shields.io/badge/Python-white?style=flat&logo=python)</code> &nbsp;&nbsp;
-<code>![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)</code> &nbsp;&nbsp;
-<code>![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)</code> &nbsp;&nbsp;
+<code>![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat&logo=html5&logoColor=ffffff)</code> &nbsp;&nbsp;
+<code>![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3)</code> &nbsp;&nbsp;
 
 ### Frameworks
 
 <code>![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)</code> &nbsp;&nbsp;
 <code>![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&color=white&logo=nextdotjs&logoColor=black)</code> &nbsp;&nbsp;
-<code>![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)</code> &nbsp;&nbsp;
-<code>![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-blue?style=flat&logo=chakra-ui&logoColor=white)</code> &nbsp;&nbsp;
-<code>![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)</code> &nbsp;&nbsp;
+<code>![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)</code> &nbsp;&nbsp;
+<code>![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-white?style=flat&logo=chakra-ui&logoColor=twal)</code> &nbsp;&nbsp;
+<code>![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js)</code> &nbsp;&nbsp;
 
 ### Editors
 <code>![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)</code> &nbsp;&nbsp;
