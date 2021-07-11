@@ -36,6 +36,7 @@ Tools, languages, and other things that I like to work with.
 
 ### Languages
 
+<code>![C++](https://img.shields.io/badge/C++-blue.svg?style=flat&logo=c%2B%2B)</code> &nbsp;&nbsp;
 <code>![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=yellow)</code> &nbsp;&nbsp;
 <code>![TypeSript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript&logoColor=blue)</code> &nbsp;&nbsp;
 <code>![Python](https://img.shields.io/badge/Python-white?style=flat&logo=python)</code> &nbsp;&nbsp;
@@ -45,9 +46,10 @@ Tools, languages, and other things that I like to work with.
 ### Frameworks
 
 <code>![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)</code> &nbsp;&nbsp;
+<code>![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&color=white&logo=nextdotjs&logoColor=black)</code> &nbsp;&nbsp;
 <code>![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)</code> &nbsp;&nbsp;
+<code>![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-blue?style=flat&logo=chakra-ui&logoColor=white)</code> &nbsp;&nbsp;
 <code>![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)</code> &nbsp;&nbsp;
-<code>![Vuejs](https://img.shields.io/badge/-Vuejs-black?style=flat-square&logo=vuejs)</code> &nbsp;&nbsp;
 
 ### Editors
 <code>![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)</code> &nbsp;&nbsp;
