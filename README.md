@@ -45,14 +45,14 @@ Tools, languages, and other things that I like to work with.
 
 ### Frameworks
 
-<code>![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)</code> &nbsp;&nbsp;
+<code>![React](https://img.shields.io/badge/-React-%23282C34?style=flat&logo=react)</code> &nbsp;&nbsp;
 <code>![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&color=white&logo=nextdotjs&logoColor=black)</code> &nbsp;&nbsp;
 <code>![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)</code> &nbsp;&nbsp;
 <code>![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-white?style=flat&logo=chakra-ui&logoColor=twal)</code> &nbsp;&nbsp;
 <code>![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js)</code> &nbsp;&nbsp;
 
 ### Editors
-<code>![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)</code> &nbsp;&nbsp;
+<code>![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)</code> &nbsp;&nbsp;
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
