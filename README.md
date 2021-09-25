@@ -56,11 +56,11 @@ Tools, languages, and other things that I like to work with.
 ## :chart_with_upwards_trend: GitHub Stats
 <p>
   <a href="https://github.com/marcuslamounier">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcuslamounier&hide=html&layout=compact&langs_count=10" /> 
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcuslamounier&hide=html&layout=compact&langs_count=10&theme=vision-friendly-dark" /> 
   </a>
   <br> <br>
   <a href="https://github.com/marcuslamounier">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=marcuslamounier&show_icons=true&line_height=27&count_private=true&&theme=vision-friendly-dark" alt="marcuslamounier stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=marcuslamounier&show_icons=true&line_height=27&count_private=true&theme=vision-friendly-dark" alt="marcuslamounier stats" />
   </a>
 </p>
 
