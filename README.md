@@ -72,5 +72,5 @@ Tools, languages, and other things that I like to work with.
 - [EiMilhas - Passagens Aéreas](https://eimilhas.com.br/)
 - [Vinícius Dias - Personal Trainer](https://treinovinidias.com/)
 - [Departamento de Museologia da UFOP](https://museologia.ufop.br/)
+- [Circuito Cidades](https://www.circuitocidades.com.br/)
 - ⏳ &nbsp; *Human Resources company* (**in progress...**)
-- ⏳ &nbsp; *Sport events promoter* (**in progress...**)
