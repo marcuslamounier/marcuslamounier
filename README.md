@@ -64,7 +64,7 @@ Tools, languages, and other things that I like to work with.
   </a>
 </p>
 
-## :bulb: Recent projects I worked
+<!-- ## :bulb: Recent projects I worked
 
 - [Rifa Esportiva](https://www.rifaesportiva.com.br/) 
 - [Allan Kardec Online - Museu Online do Espiritismo](https://allankardec2.vercel.app/)
@@ -75,3 +75,4 @@ Tools, languages, and other things that I like to work with.
 - [Circuito Cidades](https://www.circuitocidades.com.br/)
 - ⏳ &nbsp; *Human Resources company* (**in progress...**)
 - ⏳ &nbsp; *Students test preparation platform* (**in progress...**)
+ -->
