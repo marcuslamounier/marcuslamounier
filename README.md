@@ -5,10 +5,10 @@
 ----
 ## 👨🏻‍💻 About Me
 
-- 🦅 &nbsp; Software Engineer at <a href="https://www.nextime.com.br/">NeXTIME</a> <a href="https://www.instagram.com/nextimetec/">@nextimetec</a>
+- 🦅 &nbsp; Software Engineer, data analyst and frontend developer.
 - 🎓 &nbsp; Tech. in Informatics at Minas Gerais Federal Center of Technological Education.
 - 🎓 &nbsp; B.Sc. in Production Engineering at Ouro Preto Federal University.
-- 🎓 ⏳ &nbsp; B.Sc. in Information Systems at FUMEC University.
+- 🎓 &nbsp; B.Sc. in Information Systems at FUMEC University.
 - 🎓 ⏳ &nbsp; M.Sc. in Computer Science at Ouro Preto Federal University.
 - 👨‍🏫&nbsp; Pursuing knowledge to make incredible dynamic apps.
 - 👨‍&nbsp; Open Source enthusiast.
