@@ -5,6 +5,9 @@
 ----
 ## 👨🏻‍💻 About Me
 
+**<a href="https://www.linkedin.com/in/marcuslamounier/">You can contact me via LinkedIn <img align="left" alt="marcuslinkedin" width="22px" src= "https://camo.githubusercontent.com/d659d2bac00c01b42bffbae84bdc121e828b8fecd5b4949ffa2575f5d9e4a371/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667" style="max-width:100%;">
+</a>**
+
 - 🦅 &nbsp; Software Engineer, data analyst and frontend developer.
 - 🎓 &nbsp; Tech. in Informatics at Minas Gerais Federal Center of Technological Education.
 - 🎓 &nbsp; B.Sc. in Production Engineering at Ouro Preto Federal University.
@@ -12,17 +15,6 @@
 - ⏳ &nbsp; M.Sc. in Computer Science at Ouro Preto Federal University (in progress).
 - 👨‍🏫&nbsp; Pursuing knowledge to make incredible dynamic apps.
 - 👨‍&nbsp; Open Source enthusiast.
-
-----
-
-## :phone: You can connect with me:
-
-- <a href="https://www.linkedin.com/in/marcuslamounier/">
-    <img align="left" alt="marcuslinkedin" width="22px" src= "https://camo.githubusercontent.com/d659d2bac00c01b42bffbae84bdc121e828b8fecd5b4949ffa2575f5d9e4a371/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667" style="max-width:100%;">
-  </a>
-- <a href="https://t.me/marcuslamounier">
-    <img align="left" alt="marcustelegram" width="22px" src= "https://raw.githubusercontent.com/gist/m8rge/4c2b36369c9f936c02ee883ca8ec89f1/raw/c03fd44ee2b63d7a2a195ff44e9bb071e87b4a40/telegram-single-path-24px.svg" style="max-width:100%;">
-  </a>
   
 ----
 
